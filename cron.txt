@@ -1,0 +1,1 @@
+*/1 * * * * INFLUX_URL=xxx INFLUX_AUTH=xxx /usr/bin/python /home/wenxin/nvidia-smi-query.py host
