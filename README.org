@@ -1,0 +1,11 @@
+#+TITLE: Influxdb Reporter for Various Pools
+
+* Usage
+
+Edit example configs
+
+#+BEGIN_SRC bash
+cp -r examples instance/configs
+# Edit Them
+INFLUX_URL='XXX' INFLUX_AUTH='XXX' ./zhoubapi.sh
+#+END_SRC

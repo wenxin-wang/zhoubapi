@@ -1,1 +1,0 @@
-# Influxdb Reporter for CUDA
